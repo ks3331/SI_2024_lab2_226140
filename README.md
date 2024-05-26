@@ -1,10 +1,8 @@
-# SI_2024_lab2_226140
+Втора лабораториска вежба по Софтверско инженерство
 
-IME: Kristijan 
+Кристијан Стојковиќ, бр. на индекс 226140
 
-PREZIME: Stojkovikj
+Control Flow Graph
+![Untitled Diagram drawio](https://github.com/ks3331/SI_2024_lab2_226140/assets/78613309/e631eb58-7486-4084-8d57-7b9852726910)
 
-INDEX: 226140
 
-Control Flow Graph:
-![image](https://github.com/ks3331/SI_2024_lab2_226140/assets/78613309/a4d8356d-46d1-478c-910d-22fa59e350de)
